@@ -1,6 +1,7 @@
 # landing-page
 
 ## LIVE VIEW OF THE PROJECT - (#https://sk-adi.github.io/landing-page/)
+**LIVE VIEW OF THE PROJECT** - [Click Here](https://sk-adi.github.io/landing-page/)
 
 # Web Page Creation Project 
 This project is a web page created from a provided design as part of a web development assignment. The objective was to replicate a given design as closely as possible using HTML and CSS.
