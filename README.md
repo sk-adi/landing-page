@@ -24,6 +24,6 @@ This project helped reinforce the importance of dividing tasks into manageable s
 **Andrea Piacquadio** - [Profile on Pexels](https://www.pexels.com/@olly/) - 
 **Megan Rexazin Conde** - [Profile on Pixabay](https://pixabay.com/users/megan_rexazin_conde-6742250/)
 
-##Conclusion
+## Conclusion
 This project was a valuable learning experience, giving me practical exposure to real-world web development tasks. I look forward to applying these skills to more complex projects in the future.
 
