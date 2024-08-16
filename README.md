@@ -6,12 +6,10 @@ This project is a web page created from a provided design as part of a web devel
 
 
 ## Project Overview - 
-**Design Provided:** Two images were given - one showing the complete website layout and another detailing the fonts and colors. -
- **Font Family Used:** The design specified the use of the Georgia, 'Times New Roman', Times, serif; font. 
-
+**Design Provided:** Two images were given - one showing the complete website layout and another detailing the fonts and colors.
+**Font Family Used:** The design specified the use of the Georgia, 'Times New Roman', Times, serif; font. 
 **Sections:** The website is divided into 4 main sections.
- 
- **Responsiveness:** The project is focused on desktop view; mobile optimization will be learned and implemented later.
+**Responsiveness:** The project is focused on desktop view; mobile optimization will be learned and implemented later.
 
 
 
@@ -26,6 +24,6 @@ This project helped reinforce the importance of dividing tasks into manageable s
 **Andrea Piacquadio** - [Profile on Pexels](https://www.pexels.com/@olly/) - 
 **Megan Rexazin Conde** - [Profile on Pixabay](https://pixabay.com/users/megan_rexazin_conde-6742250/)
 
-Conclusion
+##Conclusion
 This project was a valuable learning experience, giving me practical exposure to real-world web development tasks. I look forward to applying these skills to more complex projects in the future.
 
